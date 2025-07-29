@@ -1,0 +1,16 @@
+# JetBrains Rider
+.idea/
+
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Other common files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.log
